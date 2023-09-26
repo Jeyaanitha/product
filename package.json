@@ -1,0 +1,16 @@
+{
+  "name": "fastify",
+  "version": "1.0.0",
+  "description": "NodeJS application using fastify framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeya",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.23.2",
+    "fastify-swagger": "^5.2.0",
+    "uuid": "^9.0.1"
+  }
+}
